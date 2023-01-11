@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bulmaro Ramirez (you can call me Maro).
-- 👀 I’m interested in build application based on reactjs, reacjs, node-express, Blazor & MudBlazor, web api with ASP.NET and a bit Python.
-- 🌱 I’m currently learning about graphql.
+- 👀 I’m interested in build application based on reactjs, nextjs, node-express, Blazor & MudBlazor, AWS Serverless Application Model, web api with ASP.NET and a bit Python.
+- 🌱 I’m currently learning about secure development.
 - 💞️ I’m looking to collaborate on web apps.
 - 📫 You can reach me vía email: bulmaroramirezlopez@gmail.com or mobile: 7971161999
 
